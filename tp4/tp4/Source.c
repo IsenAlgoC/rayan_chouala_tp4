@@ -21,4 +21,5 @@ int main() {
 	printf("l'heure final vaut %.2d : %.2d\nl'heure initial vaut %.2d : %.2d\nla duree vaut %.2d: %.2d\n", heurefin.heure, heurefin.minute,heuredebut.heure,heuredebut.minute,duree.heure,duree.minute);
 	system("pause");
 	return(EXIT_SUCCESS);
+
  }

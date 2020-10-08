@@ -3,6 +3,7 @@
 #include<string.h>
 
 int main() {
+
 	int longueur = 0;
 	char mot[20] = { 0 };
 	int i = 0;
